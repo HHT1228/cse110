@@ -1,2 +1,2 @@
 # cse110
-Repo for CSE 110 class
+My favorite programming language is Java.
