@@ -9,6 +9,7 @@ int main() {
 - University of California, San Diego
 - Bachelor of Science
 - Major: Computer Engineering
+![A picture of me on Miramar Air Show](./personal/Picture_of_me.jpg)
 
 I am a forth-year computer engineering student who is interested in digital circuits, neuromorphic computing, and internet-of-things (IoT).
 
