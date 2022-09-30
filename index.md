@@ -27,4 +27,4 @@ As an engineer, my goal is to become a distinguished engineer in the sector of e
 > - [ ] Improve my ability of working in large groups
 > - [ ] Be more prepared for future work in industry
 
-Readme file for this course repo: (./README.md)
+Readme file for this course repo: [./README.md]
